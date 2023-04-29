@@ -19,3 +19,4 @@ Neste repositório ficará links úteis para os estudos do grupo
 
 [Red Team Notes](https://www.ired.team/)
 
+[OWASP TOP 10 v.2021](https://owasp.org/www-project-top-ten/)
