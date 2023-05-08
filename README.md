@@ -9,7 +9,7 @@ Neste repositório ficará links úteis para os estudos do grupo
 
 [Linux Privilege Escalation Guide](https://payatu.com/blog/a-guide-to-linux-privilege-escalation/)
 
-[Linux privilege Escalation - GTFObins](https://gtfobins.github.io/)
+[Linux privilege Escalation - GTFOBins](https://gtfobins.github.io/)
 
 [Roadmap Cyber Security](https://roadmap.sh/cyber-security)
 
